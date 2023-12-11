@@ -1,3 +1,4 @@
+# Failed on tests
 wordsCount = int(input())
 
 wordsInput = []
